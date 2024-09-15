@@ -1,15 +1,15 @@
 # HEAVY (DAY 1)
 
-### REST 4 MINS PER SET
+REST 4 MINS PER SET
 
-### (warmup set 1 40% of working weight X 3, 80% X 3)
-## BENCH PRESS 3X3 
-### (warmup set 1 40% X 3, 80% X 3)
-## SQUAT 3X3
-### (warmup set 1 60%)
-## DEADLIFT 1X3 
-## BACK EXTENSION superset WEIGHT AB CRUNCH   2X9 
-## 25 mins cardio
+(warmup set 1 40% of working weight X 3, 80% X 3)
+-- BENCH PRESS 3X3 
+(warmup set 1 40% X 3, 80% X 3)
+-- SQUAT 3X3
+(warmup set 1 60%)
+-- DEADLIFT 1X3 
+-- BACK EXTENSION superset WEIGHT AB CRUNCH   2X9 
+-- 25 mins cardio
 ---
 
 # DAY 2,3  -  10mins STRETCH
