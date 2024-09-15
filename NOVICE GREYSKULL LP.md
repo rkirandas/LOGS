@@ -9,7 +9,7 @@
 | WED   |   A     |  
 | FRI   |   B     | 
 
-REST 4 MINS PER SET
+REST 3-4 MINS PER SET
 
 # DAY A 
 
