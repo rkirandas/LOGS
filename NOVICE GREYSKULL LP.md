@@ -17,7 +17,7 @@ REST 3-4 MINS PER SET
 - CHINUPS 1X AMRAP, CLOSE GRIP LAT PULL DOWN  2 X 5
 - SQUAT 2X5,1X AMRAP (warmup sets 40% X 3, 80% X 3)
 - OVERHEAD TRICEP EXTENSION superset INCLINE BICEP CURL  2 X 10
-- 25 mins cardio
+- 25 mins moderate cardio
 
 # DAY B 
 
@@ -25,4 +25,4 @@ REST 3-4 MINS PER SET
 - CHINUPS 1X AMRAP, CLOSE GRIP LAT PULL DOWN  2 X 5
 - DEADLIFT 1X AMRAP (warmup sets 40% X 3, 80% X 3)
 - SIDE LATERAL RAISE superset REVERSE PEC DECK 2 X 9
-- 25 mins cardio
+- 25 mins moderate cardio
