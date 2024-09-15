@@ -5,7 +5,7 @@ REST around 4 MINS PER SET
 * BENCH PRESS 3Sets X3Reps (warmup sets 50% of working weight X 6, 80% X 3)
 * SQUAT 3X3 (warmup sets 50% X 6, 80% X 3)
 * DEADLIFT 1X3  (warmup set 60% X 3)
-* BACK EXTENSION superset CABLE CRUNCH  2 X 9 
+* ^BACK EXTENSION superset CABLE CRUNCH  2 X 9 
 * 25 mins moderate cardio
 
 # VOLUME UPPER (DAY 4) 
@@ -31,3 +31,4 @@ REST 2 MINS PER SET
 * 25 mins moderate cardio
 
 # DAY 2,3,6,7 - REST / STRETCHING ROUTINE
+^ - Addons
