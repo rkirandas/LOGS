@@ -1,10 +1,10 @@
 
 | DAY |  WORKOUT  |
-|:---|:---|
+|:---:|:---:|
 | MON   |   A     | 
 | WED   |   B     |  
 | FRI   |   A     | 
-| NEXT     WEEK   |
+| NEXT  |   WEEK  |
 | MON   |   B     | 
 | WED   |   A     |  
 | FRI   |   B     | 
