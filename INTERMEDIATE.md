@@ -6,8 +6,8 @@ REST around 4 MINS PER SET
 * SQUAT 3X3 (warmup sets 50% X 6, 80% X 3)
 * DEADLIFT 1X3  (warmup set 60% X 3)
 * BACK EXTENSION superset CABLE CRUNCH  2 X 9 
-* 25 mins cardio
-
+* 25 mins moderate cardio
+* 
 # DAY 2,3  -  10mins STRETCH
 
 # VOLUME UPPER (DAY 4) 
@@ -19,7 +19,7 @@ REST around 2 MINS PER SET
 * INCLINE DB PRESS 3 X 9
 * CHINUPS 1 X AMRAP , CLOSE GRIP LAT PULL DOWN  2 X 9
 * ^TRICEP EXTENSION superset INCLINE DB CURL  2 X 9
-* 25 mins cardio
+* 25 mins moderate cardio
 
 # VOLUME LOWER DAY (DAY 5) 
 
@@ -30,6 +30,6 @@ REST 2 MINS PER SET
 * BULGARIAN SPLIT SQUAT 2x9 
 * CALF RAISE 2x9 
 * ^SIDE LATERAL RAISE superset REVERSE PEC DECK 2 X 9
-* 25 mins cardio
+* 25 mins moderate cardio
 
 # DAY 6,7 - 10mins STRETCH
