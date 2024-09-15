@@ -7,8 +7,8 @@ REST around 4 MINS PER SET
 * DEADLIFT 1X3  (warmup set 60% X 3)
 * BACK EXTENSION superset CABLE CRUNCH  2 X 9 
 * 25 mins moderate cardio
-* 
-# DAY 2,3  -  10mins STRETCH
+
+# DAY 2,3  - REST / STRETCHING ROUTINE
 
 # VOLUME UPPER (DAY 4) 
 
@@ -32,4 +32,4 @@ REST 2 MINS PER SET
 * ^SIDE LATERAL RAISE superset REVERSE PEC DECK 2 X 9
 * 25 mins moderate cardio
 
-# DAY 6,7 - 10mins STRETCH
+# DAY 6,7 - REST / STRETCHING ROUTINE
