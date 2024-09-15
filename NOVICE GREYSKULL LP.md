@@ -1,12 +1,22 @@
 # MON TUE WED THU FRI SAT SUN MON TUE......
 #  A       B       A           B
 
+| DAY |  WORKOUT  |
+|:-----|:--------:|
+| MON   |   A     | 
+| WED   |   B     |  
+| FRI   |   A     | 
+|:NEXT--|:-WEEK--:|
+| MON   |   B     | 
+| WED   |   A     |  
+| FRI   |   B     | 
+
 ### REST 4 MINS PER SET
 
 # DAY A 
 
 ### (warmup set 1 40% of working weight X 3, 80% X 3)
-## BENCH 2X5,1X AMRAP
+## BENCH PRESS 2X5,1X AMRAP
 ## CHINUPS 1X AMRAP, CLOSE GRIP LAT PULL DOWN  2 X 5
 ### (warmup set 1 40% of working weight X 3, 80% X 3)
 ## SQUAT 2X5,1X AMRAP
