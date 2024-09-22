@@ -19,7 +19,7 @@
   * ADD ON (opt)
 * 25 mins moderate cardio
 
-# LEGS STRENGTH (DAY 5) 
+# DAY 5
 
 * **STRENGTH** SQUAT 3X3  (warmup sets 50% X 6, 80% X 3)
 * **VOLUME**
@@ -29,7 +29,7 @@
   * ADD ON (opt)
 * 25 mins moderate cardio
 
-# DAY 2,4,6,7 - REST / STRETCHING ROUTINE
+# DAY 2,4,6,7 - REST / STRETCHING ROUTINE 
 
 # NOTES
  - For Strength  Rest 3-4 mins per set
