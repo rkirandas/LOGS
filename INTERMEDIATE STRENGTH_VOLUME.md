@@ -1,31 +1,31 @@
 # DAY 1
 
-* **STRENGTH** BENCH PRESS 3Sets X3Reps (warmup sets 50% of working weight X 6, 80% X 3)
+* **STRENGTH** BENCH PRESS 3 X 3 
 * **VOLUME**
-  * CHINUPS 1 X AMRAP , CLOSE REV. GRIP LAT PULL DOWN  3 X 8 (warmup -> dead hangs + scalpula pulls ~10 secs)
+  * CHINUPS 1 X AMRAP , CLOSE REV. GRIP LAT PULL DOWN  3 X 8 
   * Barbell OHP 3 X 8
-  * LEG PRESS  4 X 8   (warmup set 50% X 6, 80% X 3)
+  * LEG PRESS  4 X 8 
   * ADD ON (opt)
 * 25 mins moderate cardio
 
 # DAY 3
 
-* **STRENGTH**  DEADLIFT 1X3  (warmup sets 50% X 6, 80% X 3)
+* **STRENGTH**  DEADLIFT 1 X 3
 * **VOLUME**
-  * HACK SQUATS 4 X 8  (warmup sets 50% X 6, 80% X 3)
+  * HACK SQUATS 4 X 8
   * HAMSTRING CURL superset Calf Raise   2 X 12 
-  * DIPS 4 X 8 (if weighted do warmup)
-  * SEATED ROWS 4 X 8 (warmup set 50% X 6)
+  * DIPS 4 X 8 (*weighted)
+  * SEATED ROWS 4 X 8 
   * ADD ON (opt)
 * 25 mins moderate cardio
 
 # DAY 5
 
-* **STRENGTH** SQUAT 3X3  (warmup sets 50% X 6, 80% X 3)
+* **STRENGTH** SQUAT 3 X 3  
 * **VOLUME**
-  * RDL 4 X 8 (warmup sets 50% X 6, 80% X 3)
-  * Incline Db Press 4 X 8 (warmup sets 50% X 6, 80% X 3)
-  * Lat Pull Down 4 X 8 (warmup set 50% X 6)
+  * RDL 4 X 8
+  * Incline Db Press 4 X 8 
+  * Lat Pull Down 4 X 8 
   * ADD ON (opt)
 * 25 mins moderate cardio
 
